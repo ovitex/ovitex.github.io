@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ovitex/ovitex.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Hi there 👋, my name is Shazed
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-### Markdown
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on computational material 
+- 🌱 I’m currently learning Machine Learning 
+- 👯 I’m looking to collaborate on ML/AI project 
+- 🤔 I’m looking for help with AI 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ovitex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shazed-muntashir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shazedmuntashir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@shazedmuntashir)  
 
-- Bulleted
-- List
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-1. Numbered
-2. List
+[![trophy](https://github-profile-trophy.vercel.app/?username=ovitex)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Bold** and _Italic_ and `Code` text
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitex)](https://github.com/anuraghazra/github-readme-stats)
 
-[Link](url) and ![Image](src)
-```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovitex&show_icons=true&count_private=true)  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ovitex)  
 
-### Jekyll Themes
+![GitHub metrics](https://metrics.lecoq.io/ovitex)  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ovitex/ovitex.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ovitex)  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Profile views](https://gpvc.arturio.dev/ovitex)  
